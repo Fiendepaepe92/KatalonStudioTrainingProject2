@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Accept All</name>
+   <tag></tag>
+   <elementGuidId>24be2a43-9fb6-42fd-9763-b132d2e7efaa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.iubenda-cs-accept-btn.iubenda-cs-btn-primary.hover.focus</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='iubenda-cs-banner']/div/div/div/div[4]/div[2]/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Accept All&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8f8cd77d-3bf1-4772-aa0c-70e592a919c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>iubenda-cs-accept-btn iubenda-cs-btn-primary hover focus</value>
+      <webElementGuid>4a2a7759-da0d-4140-b15c-813d04e0915d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>5f2e05e2-7e49-46f5-af13-22a0e4240dde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>53ffbe47-c84d-40df-89e2-1263c3d10a05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-pressed</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>3beb25a1-512b-44c6-bee8-c3972a08f8b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Accept All</value>
+      <webElementGuid>784cbb7e-4886-4923-b8ea-a73420a9a5d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;iubenda-cs-banner&quot;)/div[@class=&quot;iubenda-cs-container&quot;]/div[@class=&quot;iubenda-cs-content&quot;]/div[@class=&quot;iubenda-cs-rationale&quot;]/div[@class=&quot;iubenda-cs-opt-group&quot;]/div[@class=&quot;iubenda-cs-opt-group-consent&quot;]/button[@class=&quot;iubenda-cs-accept-btn iubenda-cs-btn-primary hover focus&quot;]</value>
+      <webElementGuid>8caf4d0b-f484-4378-8a76-afc6a79f1b92</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='iubenda-cs-banner']/div/div/div/div[4]/div[2]/button[2]</value>
+      <webElementGuid>0e5f497b-1054-4532-83c4-eb201f7931f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reject All'])[1]/following::button[1]</value>
+      <webElementGuid>6918f209-8550-4a61-908c-17da1673f122</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cookies settings'])[1]/following::button[2]</value>
+      <webElementGuid>7fff67e3-f1d9-40a8-a747-38753b15475e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Accept All']/parent::*</value>
+      <webElementGuid>e344c953-fcad-4f4c-a3e6-08c8167f1d72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/button[2]</value>
+      <webElementGuid>c09bf44e-4398-43dd-bcdf-56a927f8aaa3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Accept All' or . = 'Accept All')]</value>
+      <webElementGuid>d6f53871-892b-468b-881e-e111ed73a928</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

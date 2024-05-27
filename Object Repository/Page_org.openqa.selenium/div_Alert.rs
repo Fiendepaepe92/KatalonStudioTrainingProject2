@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Alert</name>
+   <tag></tag>
+   <elementGuidId>0f4ade32-e1db-44f1-895e-55dcb4262c43</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-first.odd-row-color.class-summary.class-summary-tab1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='class-summary.tabpanel']/div/div[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Alert$/</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9a72a7cc-0100-4892-999d-c7c66738fb51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-first odd-row-color class-summary class-summary-tab1</value>
+      <webElementGuid>48930dd8-14bf-480d-8511-888da78ff1ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Alert</value>
+      <webElementGuid>a0820bef-1d0f-466b-b285-e212d7bde89a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;class-summary.tabpanel&quot;)/div[@class=&quot;summary-table two-column-summary&quot;]/div[@class=&quot;col-first odd-row-color class-summary class-summary-tab1&quot;]</value>
+      <webElementGuid>a5ec61ff-a3be-47dd-9803-cc8a3e2e5d45</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='class-summary.tabpanel']/div/div[5]</value>
+      <webElementGuid>092f816e-14e6-43f5-a057-316b22f17d1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AcceptedW3CCapabilityKeys'])[1]/following::div[2]</value>
+      <webElementGuid>fbb538ad-1425-42a9-a45f-df2157f60ac2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[1]/following::div[3]</value>
+      <webElementGuid>d196b299-d2e0-47c8-9004-997508b94244</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Architecture'])[1]/preceding::div[2]</value>
+      <webElementGuid>3180e360-e930-455f-be44-56d00c1b5663</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]</value>
+      <webElementGuid>4227d782-5b8c-4c14-8531-dc48da440e32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Alert' or . = 'Alert')]</value>
+      <webElementGuid>1cf72be8-bc53-4ff4-9ef7-c3ed1ee9cbda</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

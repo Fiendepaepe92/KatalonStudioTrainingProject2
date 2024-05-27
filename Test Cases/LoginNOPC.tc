@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LoginNOPC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e9b0c23c-b7ed-4a1a-88b7-816b17dba28b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>76d97439-7ece-475c-985c-84d9c8d043f4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>75841991-6eca-4783-b446-16448befc1f0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'admin@yourstore.com\r\n'</defaultValue>
+      <description></description>
+      <id>76d97439-7ece-475c-985c-84d9c8d043f4</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'admin'</defaultValue>
+      <description></description>
+      <id>75841991-6eca-4783-b446-16448befc1f0</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
